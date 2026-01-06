@@ -39,6 +39,10 @@ User Query → Hybrid Search (ES) → Cohere Rerank → Answer
                             Web Search → Index → Re-search
 ```
 
+(<img width="424" height="1182" src="https://github.com/user-attachments/assets/ae80371c-7cf2-40fc-8c39-e492c248cbe1" />
+
+
+
 ## ✨ Key Features
 
 - **📚 Intelligent Chunking**: Sentence-aware, ~800 tokens with 100-token overlap
