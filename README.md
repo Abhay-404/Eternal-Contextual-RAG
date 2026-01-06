@@ -2,7 +2,7 @@
 
 > **Advanced RAG system combining Contextual Retrieval, Hybrid Search, and Web Grounding for superior accuracy**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK](https://colab.research.google.com/drive/1TCHRVvtsu2LaZke2JPBtBba5qWyYRSD-?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TCHRVvtsu2LaZke2JPBtBba5qWyYRSD-?usp=sharing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 🌟 What Makes This Different?
