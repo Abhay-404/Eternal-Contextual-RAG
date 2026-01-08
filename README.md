@@ -1,6 +1,6 @@
 # 🚀 Eternal Contextual RAG
 
-> **Advanced RAG system combining Contextual Retrieval, Hybrid Search, and Web Grounding for superior accuracy**
+> Eternal Contextual RAG: A persistent-context Retrieval-Augmented Generation architecture
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TCHRVvtsu2LaZke2JPBtBba5qWyYRSD-?usp=sharing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
